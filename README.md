@@ -1,2 +1,2 @@
 # PitE
-test
+Piotr Waszak
